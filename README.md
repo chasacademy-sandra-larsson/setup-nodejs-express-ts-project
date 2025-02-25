@@ -1,12 +1,12 @@
-# TypeScript Node.js Setup Guide
+# Node.js / Express / TypeScript Setup Guide
 
 A beginner's guide to setting up a TypeScript project with Node.js, Express, CORS, and Nodemon.
 
-## Initial Setup
+## Setup instructions
 
 1. Create a new project folder and navigate to it:
 
-````
+```
 mkdir my-nodejs-express-project
 cd  my-nodejs-express-project
 
