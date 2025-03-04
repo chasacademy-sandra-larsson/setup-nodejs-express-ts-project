@@ -3,7 +3,9 @@ import cors from "cors";
 
 const app = express();
 
+// Middleware
 app.use(cors());
+app.use(express.json());
 
 app.get("/", (req, res) => {
   res.send("Node.js and Express.js with TypeScript");
